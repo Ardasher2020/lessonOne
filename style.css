@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+
+header {
+   border: 2px solid red; 
+}
+
+main {
+    border: 2px solid rgb(174, 94, 248); 
+}
+
+footer {
+    border: 2px solid rgb(6, 238, 64); 
+}
